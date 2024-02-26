@@ -1,0 +1,123 @@
+h1 {
+    font-size: xx-large;
+    position: relative;
+    left: 560px;
+    bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown
+}
+
+body {
+    background-color: rgb(207, 204, 255);
+}
+
+#img1 {
+    width: 250px;
+    height: 200px;
+    position: relative;
+    left: 540px;
+    bottom: 50px;
+}
+
+#as1 ul li {
+    position: relative;
+    bottom: 323px;
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#as2 ul li {
+    position: relative;
+    left: 900px;
+    bottom: 402px;
+    padding: 30px;
+    list-style: none;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+#car1 {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+#car2 {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 300px;
+    bottom: 150px;
+}
+
+#car3 {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    right: 610px;
+    top: 300px;
+}
+
+#car4 {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 701px;
+    bottom: 7px;
+}
+
+#p1 {
+    position: relative;
+    bottom: 455px;
+    left: 320px;
+}
+
+#p2 {
+    position: relative;
+    bottom: 489px;
+    left: 830px;
+}
+
+#p3 {
+    position: relative;
+    bottom: 72px;
+    left: 305px;
+}
+
+#p4 {
+    position: relative;
+    left: 850px;
+    bottom: 108px;
+}
+
+#b1 {
+    position: relative;
+    bottom: 558px;
+    left: 350px;
+    background-color: steelblue;
+}
+
+#b2 {
+    position: relative;
+    bottom: 558px;
+    left: 800px;
+    background-color: steelblue;
+}
+
+#b3 {
+    position: relative;
+    bottom: 105px;
+    left: 222px;
+    background-color: steelblue;
+}
+
+#b4 {
+    position: relative;
+    bottom: 105px;
+    left: 679px;
+    background-color: steelblue;
+}
